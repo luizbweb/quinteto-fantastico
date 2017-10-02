@@ -1,6 +1,7 @@
 .logo {
     top: 30px;
     display: inline-block;
+    width: 20%;
 }
 .bar {
 	top: 30px;
@@ -21,7 +22,7 @@ p {
     font-size: 14px;
     text-align: center;
     display: inline-block;
-	width: 80%;
+	width: 60%;
     position: relative;
     top: -20px;
 }
