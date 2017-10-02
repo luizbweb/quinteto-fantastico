@@ -13,6 +13,7 @@
 	height: 80%;
 	background-color: red;
 	position: absolute;
+    margin-top: -10px;
 }
 p {
     color: #444444;
@@ -21,6 +22,8 @@ p {
     text-align: center;
     display: inline-block;
 	width: 80%;
+    position: relative;
+    top: -20px;
 }
 button {
 	
