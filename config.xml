@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "br.net.waw.engarrafei-quinteto"
+    version     = "0.9" >
+        <name>Engarrafei?</name>
+        <description>
+            Aplicativo da EJM
+        </description>
+        <author email="luizbweb@gmail.com" href="">
+            WAW
+        </author>
+        <icon src="icon.png" />
+        <plugin name="cordova-plugin-device" />
+        <plugin name="cordova-plugin-file-transfer" />
+        <plugin name="cordova-plugin-media" />
+        <plugin name="cordova-plugin-network-information" />
+        <access origin="*"/>
+        <plugin name="cordova-plugin-whitelist" version="1" />
+        <preference name="Orientation" value="portrait" />
+        <allow-intent href="http://*/*" />
+        <allow-intent href="https://*/*" />
+    </widget>
